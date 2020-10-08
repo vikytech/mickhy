@@ -437,7 +437,21 @@ nav .mbr-section-btn {
 }
 
 .intro {
-  background-image: var(--intro_bg);
+            background-position: 50% 50%;
+						background-size: 100%;
+						background-repeat: no-repeat;
+						background-image: var(--intro_bg);
+						position: fixed;
+						top: 0px;
+						left: 0px;
+						width: 1680px;
+						height: 1120px;
+						overflow: hidden;
+						pointer-events: none;
+						margin-left: 0px;
+						margin-top: -254.5px;
+						visibility: visible;
+						transform: translate3d(0px, -4406.4px, 0px);
 }
 
 .destination {
