@@ -1707,7 +1707,7 @@ body {
   }
 }
 .cid-qwTCuJooM6 {
-  background-image: url("../img/intro-bg.jpg");
+  background-image: var(--intro_bg);
 }
 .cid-qwTCuJooM6 .mbr-section-subtitle {
   font-style: italic;
@@ -1733,7 +1733,7 @@ body {
 .cid-qwTDXa80kH {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/camila-cordeiro-242255-4896x3264.jpg");
+  background-image: var(--bride);
 }
 @media (min-width: 992px) {
   .cid-qwTDXa80kH .mbr-figure {
@@ -1763,7 +1763,7 @@ body {
 .cid-qwTDWLSdZ0 {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/brooke-cagle-241288-5274x3516.jpg");
+  background-image: var(--groom);
 }
 @media (min-width: 992px) {
   .cid-qwTDWLSdZ0 .mbr-figure {
